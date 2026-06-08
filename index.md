@@ -19,7 +19,7 @@ title: Documento de Visão - Guris' Comedy Club
 O presente documento define a visão e os requisitos para o desenvolvimento do Sistema de Gestão do Guris’ Comedy Club, uma plataforma voltada para automatizar a administração interna, o controle de acessos e a experiência do cliente do estabelecimento.
 
 ### 1.1 Objetivo
-O objetivo deste projeto é desenvolver e implementar um sistema web e integrado que automatize os processos de cadastro de usuários (clientes e comediantes), vendas de ingressos e gestão de mensalidades de sócios VIP, controle de reservas de mesas/camarotes, emissão de relatórios gerenciais e controle de acesso biométrico/QR Code na portaria, visando reduzir falhas operacionais e melhorar a experiência do público em até [X]% após a implantação.
+O objetivo deste projeto é desenvolver e implementar um sistema web e integrado que automatize os processos de cadastro de usuários (clientes e comediantes), vendas de ingressos e gestão de mensalidades de sócios VIP, controle de reservas de mesas/camarotes, emissão de relatórios gerenciais e controle de acesso biométrico/QR Code na portaria, visando reduzir falhas operacionais e melhorar a experiência do público após a implantação.
 
 ### 1.2 Escopo
 Este projeto visa desenvolver o Sistema de Gestão Guris’ Comedy Club, que terá como finalidade centralizar e automatizar as operações diárias do clube de comédia. O sistema se destina aos clientes (espectadores comuns e sócios VIP), aos artistas (comediantes), aos funcionários da portaria/atendimento e aos administradores/donos do clube.
