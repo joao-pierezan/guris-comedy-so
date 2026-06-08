@@ -43,15 +43,13 @@ O Guris’ Comedy Club necessita de uma plataforma que integre tanto a área pú
 
 O objetivo deste documento é fornecer uma visão geral do projeto do Sistema de Gestão Guris’ Comedy Club. Ele descreve a finalidade do projeto, os principais stakeholders envolvidos, os requisitos principais, os diagramas de caso de uso, diagrama de classes e protótipos de possíveis telas para o sistema.
 
-**Canvas do Projeto:** [Acessar Meus Canvas](https://canvas-apps.pr.sebrae.com.br/meus-canvas)
-
 ### 2.2 Stakeholders
 * **Administradores / Donos do Clube:** Responsáveis por gerenciar o negócio, cadastrar shows, definir preços e analisar os relatórios financeiros e de desempenho.
 * **Funcionários (Atendimento/Portaria):** Responsáveis por operar o sistema na entrada do evento, extrair listas de presença, conferir lotação e validar o acesso de clientes e comediantes.
 * **Espectador Comum:** Cliente final que utiliza o sistema para comprar ingressos avulsos, reservar mesas, efetuar pagamentos e gerenciar seus dados na área do cliente.
 * **Sócio VIP:** Cliente recorrente que utiliza o sistema para pagar mensalidades, reservar mesas com vantagens e acessar o clube via biometria ou QR Code.
 * **Comediante:** Artista cadastrado no sistema associado aos shows e cujos dados de venda servem para alimentar os relatórios de desempenho da casa.
-* **Equipe de Desenvolvimento:** Responsável por projetar, programar e testar o software (você e seu grupo).
+* **Equipe de Desenvolvimento:** Responsável por projetar, programar e testar o software.
 
 ---
 
