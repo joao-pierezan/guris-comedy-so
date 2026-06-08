@@ -110,9 +110,9 @@ O objetivo deste documento é fornecer uma visão geral do projeto do Sistema de
 
 ---
 
-## 5. Diagrama de Entidade e Relacionamento
+## 5. Diagrama de Caso de Uso
 
-[Acessar o Diagrama de Entidade e Relacionamento](https://app.diagrams.net/#G1ozGlITNWDb8Tm11aC3IAst74ndpEKll1#%7B%22pageId%22%3A%22B2ubYMIL8hGskjKbpCVO%22%7D)
+[Acessar o Diagrama de Caso de Uso](https://app.diagrams.net/#G1ozGlITNWDb8Tm11aC3IAst74ndpEKll1#%7B%22pageId%22%3A%22B2ubYMIL8hGskjKbpCVO%22%7D)
 
 ---
 
