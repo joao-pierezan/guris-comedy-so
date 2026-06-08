@@ -80,6 +80,9 @@ O objetivo deste documento é fornecer uma visão geral do projeto do Sistema de
 
 ### 4.1 Descrição de Caso de Uso
 
+
+[Acessar o Diagrama de Caso de Uso](https://app.diagrams.net/#G1CgMqT4UGFpvdx0XUvF17QpHUdkYI0UkT#%7B%22pageId%22%3A%22OWyEm38nAWpxvRS8QmXi%22%7D)
+
 #### Caso de Uso 01: Reservar Mesa pelo Mapa do Site
 * **Ator Principal:** Cliente (Espectador Comum ou Sócio VIP).
 * **Pré-condições:** O cliente deve estar autenticado no sistema. O show pretendido deve estar cadastrado e com vagas disponíveis.
@@ -109,12 +112,7 @@ O objetivo deste documento é fornecer uma visão geral do projeto do Sistema de
 
 ## 5. Diagrama de Entidade e Relacionamento
 
-* **USUARIO/PESSOA:** ID, Nome, Data_Nascimento, Endereço, Telefone, Email, Tipo (Comum, VIP, Comediante).
-* **SOCIO_VIP:** ID_Usuario, Status_Mensalidade (Ativo/Inativo).
-* **SHOW:** ID, Data, Hora, Preço_Base, Limite_Pessoas, ID_Comediante.
-* **ASSENTO (Mesa/Camarote):** ID, Numero, Tipo (Frente do Palco/Camarote), Status (Livre/Ocupado).
-* **COMPRA/PAGAMENTO:** ID, ID_Usuario, Tipo_Pagamento (PIX/Cartão), Valor, Numero_Nota_Fiscal, Data_Pagamento.
-* **RESERVA_INGRESSO:** ID, ID_Compra, ID_Show, ID_Assento, QRCode_Gerado, Status_Comparecimento (Sim/Não).
+[Acessar o Diagrama de Entidade e Relacionamento](https://app.diagrams.net/#G1ozGlITNWDb8Tm11aC3IAst74ndpEKll1#%7B%22pageId%22%3A%22B2ubYMIL8hGskjKbpCVO%22%7D)
 
 ---
 
