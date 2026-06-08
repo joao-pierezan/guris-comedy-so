@@ -69,7 +69,7 @@ O objetivo deste documento é fornecer uma visão geral do projeto do Sistema de
 * **RF11 - Controle de Permissão de Áreas:** O sistema deve gerenciar e restringir o acesso físico/lógico diferenciando a Área do Público e o Camarim dos Artistas.
 
 ### 3.2 Requisitos Não Funcionais (RNF)
-* **RNF01 - Segurança (Restrição de Idade):** O sistema deve validar a data de nascimento no cadastro para garantir que o cliente possui a idade mínima permitida pelo estabelecimento.
+* **RNF01 - Segurança :** O sistema deve validar a data de nascimento no cadastro para garantir que o cliente possui a idade mínima permitida pelo estabelecimento e o sistema deve garantir a proteção de dados dos sócios por meio de autenticação segura, bem como seguir as normas da LGPD(Lei Geral de Proteção de Dados), criptografia de dados sensíveis e controle de acesso baseado em perfis (Sócio e administrador).
 * **RNF02 - Desempenho / Tempo de Resposta:** A validação do QR Code ou biometria na portaria deve ocorrer em tempo real (tempo de resposta inferior a 2 segundos) para evitar filas.
 * **RNF03 - Compatibilidade (Dispositivos Móveis):** O mapa de assentos e a área do cliente (exibição de QR Code) devem ser responsivos, funcionando perfeitamente em smartphones.
 * **RNF04 - Disponibilidade:** O site para compra de ingressos e reserva de mesas deve estar disponível 24 horas por dia, 7 dias por semana.
