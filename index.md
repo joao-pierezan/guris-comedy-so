@@ -17,7 +17,22 @@ title: Documento de Visão - Guris' Comedy Club
 
 ## 1. Introdução
 
-O presente documento define a visão e os requisitos para o desenvolvimento do Sistema de Gestão do Guris’ Comedy Club, uma plataforma voltada para automatizar a administração interna, o controle de acessos e a experiência do cliente do estabelecimento.
+O Guris’ Comedy Club quer um sistema para organizar a parte administrativa e o dia a dia do estabelecimento. O clube tem clientes divididos em três grupos: Espectador Comum, Sócio VIP (Espectadores que pagam mensalidade) e Comediante. Cada pessoa tem um cadastro com nome, data de nascimento (para conferir a idade mínima), endereço, telefone, e-mail e um número de identificação.
+Os Sócios VIP pagam uma mensalidade para ter vantagens, enquanto o público comum compra ingressos na hora. O sistema controla quem está com o pagamento em dia (ativo) e quem está devendo (inativo). Para facilitar, o sistema gera ingressos, aceita PIX, cartões e cuida de devoluções de dinheiro se um show for cancelado. Além disso, para manter a contabilidade em dia, o sistema emite e armazena o número da nota fiscal de todos os pagamentos realizados.
+O clube tem vários lugares que podem ser reservados, como mesas na frente do palco e camarotes. O cliente escolhe o show, o horário e marca a mesa que quer no mapa do site. O sistema confere se o lugar está livre e confirma a reserva. Se precisar, o cliente pode cancelar ou trocar o ingresso, e o sistema avisa tudo por mensagem automática.
+Além disso, o clube organiza shows de stand-up e gravações. Os administradores cadastram os shows colocando a data, a hora, o limite de pessoas, quem vai se apresentar e o preço. Os clientes compram pelo site e os funcionários conseguem tirar uma lista de quem vai e ver se a casa está lotada.
+O sistema tem uma área só para o cliente, onde ele pode:
+Ver o que já comprou e o que pagou.
+Abrir o QR Code do ingresso e ver a mesa reservada.
+Mudar o telefone ou endereço.
+Pagar mensalidades atrasadas ou ingressos.
+Acessar e baixar a nota fiscal das suas compras e mensalidades.
+Os donos do clube também têm ferramentas para ver como o negócio está indo, com relatórios de:
+Dinheiro que entrou com ingressos e mensalidades.
+Quais mesas foram mais usadas e quais comediantes vendem mais.
+Quantas pessoas reservaram e quantas realmente apareceram no show.
+Para ser seguro e rápido, o sistema é ligado à portaria. A entrada é feita lendo o QR Code do ingresso no celular ou pela digital (biometria) dos sócios VIP. O sistema também controla quem pode entrar em cada lugar, separando o que é área do público e o que é o camarim dos artistas.
+
 
 ### 1.1 Objetivo
 O objetivo deste projeto é desenvolver e implementar um sistema web e integrado que automatize os processos de cadastro de usuários (clientes e comediantes), vendas de ingressos e gestão de mensalidades de sócios VIP, controle de reservas de mesas/camarotes, emissão de relatórios gerenciais e controle de acesso biométrico/QR Code na portaria, visando reduzir falhas operacionais e melhorar a experiência do público após a implantação.
