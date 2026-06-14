@@ -43,8 +43,6 @@ Este projeto visa desenvolver o Sistema de Gestão Guris’ Comedy Club, que ter
 ### 1.3 Definições, Acrônimos e Abreviações
 * **Sócio VIP:** Cliente recorrente que paga uma mensalidade para obter vantagens exclusivas no clube.
 * **Espectador Comum:** Cliente que compra ingressos de forma avulsa, sem vínculo de mensalidade.
-* **QR Code:** Código de barras bidimensional utilizado para validação rápida de ingressos na entrada.
-* **PIX:** Meio de pagamento instantâneo brasileiro.
 * **SG-GCC:** Sistema de Gestão Guris’ Comedy Club.
 
 ### 1.4 Público-alvo
