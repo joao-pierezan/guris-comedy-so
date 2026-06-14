@@ -1,7 +1,4 @@
 ---
-next: false
----
----
 layout: doc
 title: Documento de Visão - Guris' Comedy Club
 ---
@@ -191,4 +188,6 @@ Abaixo consta a estimativa inicial dos custos previstos para o desenvolvimento e
 ## 10. Considerações Finais
 
 Este documento de visão fornece uma visão geral do projeto do Sistema de Gestão Guris’ Comedy Club. Ele descreve a finalidade, os principais stakeholders, os requisitos principais, os diagramas de caso de uso, diagrama de classes e protótipos de possíveis telas para o sistema. Ao centralizar as operações, integrando desde o mapa de reservas online até o hardware físico na portaria e relatórios de métricas, o sistema valida-se como uma solução robusta para sanar os gargalos administrativos do clube de comédia. Este documento servirá como base definitiva para o desenvolvimento do projeto, auxiliando na compreensão, alinhamento e tomadas de decisão de todas as partes interessadas envolvidas.
-
+---
+next: false
+---
