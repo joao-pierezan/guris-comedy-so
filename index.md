@@ -1,7 +1,11 @@
 ---
+next: false
+---
+---
 layout: doc
 title: Documento de Visão - Guris' Comedy Club
 ---
+
 
 ![Guris' Comedy Club](https://d3gf5wsgt7m4.cloudfront.net/FREE_LICENSE/WqW_Image_1.png)
 
